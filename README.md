@@ -18,5 +18,7 @@ The third task focuses on deep learning using Convolutional Neural Networks for 
 🔹 Task 4: Recommendation System
 
 The final task involves building a recommendation system using collaborative filtering. The process begins by creating a dataset of users, items, and ratings. This data is transformed into a user-item matrix. The system then identifies similarities between users or items to predict ratings for unseen items. Based on these predictions, the system recommends items with the highest expected ratings. The performance can be evaluated using metrics such as RMSE or by observing recommendation quality. This task highlights how machine learning is used to personalize user experiences.
+
 🔹 Conclusion
+
 Overall, these tasks cover the complete machine learning pipeline and demonstrate how different techniques are applied to solve diverse real-world problems across various domains.
