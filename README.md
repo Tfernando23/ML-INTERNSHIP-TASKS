@@ -1,6 +1,8 @@
 Machine Learning Tasks
+
 🔹 Introduction
 This project consists of four machine learning tasks that demonstrate the application of Artificial Intelligence across multiple domains, including classification, natural language processing, deep learning, and recommendation systems. Each task follows a systematic workflow that begins with understanding the problem and ends with evaluating the model’s performance. The objective of this project is to gain practical knowledge of how machine learning models are built and applied to solve real-world problems.
+
 🔹 Task 1: Decision Tree (Classification)
 The first task focuses on building a Decision Tree model for classification. The process begins with loading a structured dataset such as the Iris dataset, which contains labeled data. The dataset is then divided into training and testing sets to ensure proper model evaluation. A Decision Tree algorithm is selected because it is simple and easy to interpret. The model is trained by recursively splitting the data based on feature values to create a tree-like structure. After training, the model predicts class labels for the test data. The performance of the model is evaluated using accuracy and classification metrics. Finally, the tree is visualized to understand how decisions are made at each step.
 🔹 Task 2: Sentiment Analysis (NLP)
