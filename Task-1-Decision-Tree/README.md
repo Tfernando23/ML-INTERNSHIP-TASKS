@@ -13,7 +13,6 @@ The main advantage of Decision Trees is their interpretability. Unlike complex m
 Overall, this task demonstrates the complete workflow of a machine learning model—from data preparation and training to evaluation and visualization. It provides a strong foundation for understanding supervised learning and model interpretability.
 
 OUTPUT:
-(venv) PS C:\Users\tabof\ML-Internship-Tasks> python Task-1-Decision-Tree/decision_tree.py
 
 Accuracy: 1.0
 
