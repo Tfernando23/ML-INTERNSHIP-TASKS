@@ -13,3 +13,18 @@ The dataset is split into training and testing sets. The model is trained on the
 The results of the model provide insights into how well it can classify sentiments. For example, a high accuracy indicates that the model correctly predicts most sentiments. However, additional metrics like precision and recall are important when dealing with imbalanced datasets.
 
 This task highlights the importance of text preprocessing and feature engineering in NLP. It also demonstrates how machine learning can be applied to real-world problems involving unstructured data. Sentiment analysis plays a crucial role in businesses by helping them understand customer opinions and improve their products and services.
+
+OUTPUT:
+
+Accuracy: 0.3333333333333333
+
+ precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         2
+           1       0.33      1.00      0.50         1
+
+    accuracy                           0.33         3
+    
+   macro avg       0.17      0.50      0.25         3
+   
+weighted avg       0.11      0.33      0.17         3
