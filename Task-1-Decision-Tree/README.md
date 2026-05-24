@@ -14,7 +14,9 @@ Overall, this task demonstrates the complete workflow of a machine learning mode
 
 OUTPUT:
 (venv) PS C:\Users\tabof\ML-Internship-Tasks> python Task-1-Decision-Tree/decision_tree.py
+
 Accuracy: 1.0
+
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00        10
@@ -22,7 +24,9 @@ Accuracy: 1.0
            2       1.00      1.00      1.00        11
 
     accuracy                           1.00        30
+    
    macro avg       1.00      1.00      1.00        30
+   
 weighted avg       1.00      1.00      1.00        30
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-24 174952" src="https://github.com/user-attachments/assets/6b63eeaa-a209-45c7-9356-5d2df595522f" />
