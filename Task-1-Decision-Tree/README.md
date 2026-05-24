@@ -11,3 +11,19 @@ A key part of this task is visualization. The trained Decision Tree is visualize
 The main advantage of Decision Trees is their interpretability. Unlike complex models, Decision Trees are easy to understand and explain. However, they can suffer from overfitting if the tree becomes too deep. Techniques such as pruning or setting a maximum depth help control this issue.
 
 Overall, this task demonstrates the complete workflow of a machine learning model—from data preparation and training to evaluation and visualization. It provides a strong foundation for understanding supervised learning and model interpretability.
+
+OUTPUT:
+(venv) PS C:\Users\tabof\ML-Internship-Tasks> python Task-1-Decision-Tree/decision_tree.py
+Accuracy: 1.0
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        10
+           1       1.00      1.00      1.00         9
+           2       1.00      1.00      1.00        11
+
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-24 174952" src="https://github.com/user-attachments/assets/6b63eeaa-a209-45c7-9356-5d2df595522f" />
+
