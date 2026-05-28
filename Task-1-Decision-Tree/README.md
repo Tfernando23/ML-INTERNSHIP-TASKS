@@ -34,6 +34,9 @@ weighted avg       1.00      1.00      1.00        30
 <img width="924" height="240" alt="Screenshot 2026-05-28 162335" src="https://github.com/user-attachments/assets/eeee56d4-423b-45db-aef2-1da4b2f5703d" />
 
 
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2026-05-24 174952" src="https://github.com/user-attachments/assets/6b63eeaa-a209-45c7-9356-5d2df595522f" />
 
 
