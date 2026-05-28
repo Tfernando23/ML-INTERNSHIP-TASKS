@@ -1,3 +1,5 @@
+TASK 2: Sentiment Analysis
+
 The goal of this task is to perform sentiment analysis on a dataset of customer reviews using Natural Language Processing (NLP) techniques. Sentiment analysis is the process of determining whether a piece of text expresses a positive, negative, or neutral sentiment. It is widely used in applications such as product reviews, social media monitoring, and customer feedback analysis.
 
 The first step in this task involves collecting or creating a dataset of textual data, typically consisting of customer reviews and corresponding sentiment labels (positive or negative). Since machine learning models cannot directly process text, preprocessing is required to clean and transform the text into a usable format.
@@ -28,3 +30,7 @@ Accuracy: 0.3333333333333333
    macro avg       0.17      0.50      0.25         3
    
 weighted avg       0.11      0.33      0.17         3
+
+
+<img width="1441" height="439" alt="Screenshot 2026-05-28 162348" src="https://github.com/user-attachments/assets/75c0a347-28f6-45c9-bb52-0eec2bc030d4" />
+
