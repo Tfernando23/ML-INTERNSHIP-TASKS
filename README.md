@@ -1,14 +1,16 @@
-*COMPANY:* CODTECH IT SOLUTIONS
+##Machine Learning Internship Program
 
-*NAME:* TABO FERNANDO S
+*COMPANY*: CODTECH IT SOLUTIONS
 
-*INTERN ID:* CITS577
+*NAME*: TABO FERNANDO S
 
-*DOMAIN:* FRONT END DEVELOPMENT
+*INTERN ID*: CITS577
 
-*DURATION:* 4 WEEKS
+*DOMAIN*: FRONT END DEVELOPMENT
 
-*MENTOR:* NEELA SANTOSH
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 **Machine Learning Internship Program**
 
@@ -30,3 +32,7 @@ The third task focuses on image classification using a Convolutional Neural Netw
 **Task 4: Recommendation System (Collaborative Filtering with SVD)**
 
 The final task involves building a recommendation system using collaborative filtering and matrix factorization techniques. The process begins with creating a dataset consisting of users, items, and their corresponding ratings. This data is structured into a format suitable for training using the Surprise library. The dataset is then split into training and testing sets to ensure proper evaluation. The Singular Value Decomposition (SVD) algorithm is used to learn latent features representing user preferences and item characteristics. After training, the model predicts ratings for unseen user-item pairs. The performance is evaluated using Root Mean Squared Error (RMSE), which measures the accuracy of predictions. Finally, the system generates personalized recommendations by predicting ratings for specific users and identifying items with the highest predicted scores. This task highlights how machine learning can be used to deliver personalized user experiences in real-world applications.
+
+
+
+
