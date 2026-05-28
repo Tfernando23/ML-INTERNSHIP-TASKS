@@ -15,3 +15,14 @@ During training, the model learns to recognize patterns in the images and improv
 CNNs are powerful because they automatically learn hierarchical features from images, eliminating the need for manual feature extraction. However, they require large amounts of data and computational resources.
 
 This task demonstrates the application of deep learning in computer vision. It provides hands-on experience with neural networks and highlights how CNNs can be used to solve complex image classification problems.
+
+OUTPUT:
+
+Training Accuracy (final epoch):99.36%
+
+Validation Accuracy:98.98%
+
+Test Accuracy:98.98%
+
+Test Loss:0.0309
+
