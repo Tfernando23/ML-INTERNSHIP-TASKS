@@ -1,3 +1,5 @@
+RECOMMENDATION SYSTEM
+
 The goal of this task is to build a recommendation system using collaborative filtering or matrix factorization techniques. Recommendation systems are widely used in platforms such as Netflix, Amazon, and Spotify to suggest products, movies, or music based on user preferences.
 
 Collaborative filtering works by analyzing the behavior of users and identifying patterns in their interactions with items. It assumes that users with similar preferences will have similar tastes. There are two main types of collaborative filtering: user-based and item-based.
@@ -24,3 +26,7 @@ Predicted rating for Item1: 4.537946505813056
 Predicted rating for Item2: 4.2391930895669265
 
 Predicted rating for Item3: 4.4093633469229925
+
+
+<img width="1023" height="112" alt="Screenshot 2026-05-28 162555" src="https://github.com/user-attachments/assets/5230884f-562b-4918-aadf-ef484eba6aae" />
+
