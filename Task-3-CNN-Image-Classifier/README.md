@@ -1,3 +1,5 @@
+IMAGE CLASSIFICATION MODEL
+
 The objective of this task is to build a Convolutional Neural Network (CNN) for image classification using deep learning frameworks such as TensorFlow or PyTorch. CNNs are specialized neural networks designed to process and analyze visual data, making them highly effective for tasks like image recognition, object detection, and facial recognition.
 
 In this task, a dataset such as MNIST is used, which contains grayscale images of handwritten digits (0–9). Each image is 28x28 pixels in size. Before feeding the data into the model, preprocessing is performed. This includes normalizing pixel values to a range between 0 and 1, which helps improve training efficiency and model performance.
@@ -25,4 +27,8 @@ Validation Accuracy:98.98%
 Test Accuracy:98.98%
 
 Test Loss:0.0309
+
+
+<img width="1437" height="587" alt="Screenshot 2026-05-28 162504" src="https://github.com/user-attachments/assets/490c36f8-8887-4782-8148-72ac4a641a46" />
+
 
