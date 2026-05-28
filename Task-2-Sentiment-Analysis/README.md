@@ -1,22 +1,25 @@
-TASK 2: Sentiment Analysis
+**TASK 2: Sentiment Analysis Using TF-IDF and Logistic Regression**
 
-The goal of this task is to perform sentiment analysis on a dataset of customer reviews using Natural Language Processing (NLP) techniques. Sentiment analysis is the process of determining whether a piece of text expresses a positive, negative, or neutral sentiment. It is widely used in applications such as product reviews, social media monitoring, and customer feedback analysis.
+**Introduction**
+This task focuses on performing sentiment analysis on a dataset of customer reviews using natural language processing (NLP) techniques. Sentiment analysis is a method used to determine whether a piece of text expresses a positive or negative opinion. It is widely used in real-world applications such as product reviews, social media analysis, and customer feedback systems. In this task, a dataset of sample reviews is analyzed to classify sentiments into positive and negative categories. The implementation combines text preprocessing, feature extraction, and machine learning to build an effective sentiment classification model. This task helps in understanding how textual data can be transformed into meaningful numerical representations and used for predictive analysis.
 
-The first step in this task involves collecting or creating a dataset of textual data, typically consisting of customer reviews and corresponding sentiment labels (positive or negative). Since machine learning models cannot directly process text, preprocessing is required to clean and transform the text into a usable format.
+**Objective**
+The main objective of this task is to build a sentiment analysis model that can accurately classify customer reviews as either positive or negative. It aims to demonstrate how text data can be processed using TF-IDF vectorization and how a machine learning algorithm like Logistic Regression can be applied for classification. Another important objective is to evaluate the model’s performance using appropriate metrics and understand its effectiveness in predicting sentiments.
 
-Text preprocessing includes steps such as converting text to lowercase, removing punctuation, eliminating stopwords (common words like “and”, “the”), and tokenization (splitting text into words). These steps help reduce noise and improve the quality of the data.
+**Tools and Technologies Used**
+This task is implemented using Python due to its strong support for data analysis and machine learning. Pandas is used to create and manage the dataset efficiently. Scikit-learn provides tools for splitting the data, transforming text using TF-IDF vectorization, building the Logistic Regression model, and evaluating performance. The TF-IDF Vectorizer converts text data into numerical form by assigning importance to words based on their frequency. Logistic Regression is used as the classification algorithm because it is simple, efficient, and suitable for binary classification problems. The development environment can be Jupyter Notebook or Visual Studio Code.
 
-The next step is feature extraction using TF-IDF (Term Frequency-Inverse Document Frequency). TF-IDF converts textual data into numerical vectors by measuring how important a word is in a document relative to the entire dataset. Words that appear frequently in a specific document but not across all documents receive higher importance.
+**Methodology / Approach**
+The task begins with creating a dataset of customer reviews along with their corresponding sentiment labels. The data is then split into training and testing sets using stratified sampling to maintain class balance. Next, TF-IDF vectorization is applied to convert the textual reviews into numerical feature vectors that can be used by the machine learning model. The Logistic Regression model is then initialized and trained using the transformed training data. After training, the model is used to predict sentiments for the test data. The performance of the model is evaluated using accuracy score and classification report, which provide detailed insights into precision, recall, and overall effectiveness of the model.
 
-Once the text is transformed into numerical form, a Logistic Regression model is used for classification. Logistic Regression is a supervised learning algorithm commonly used for binary classification problems. It predicts the probability of a text belonging to a particular class (positive or negative sentiment).
+**Result / Outcome**
+The outcome of this task is a trained sentiment analysis model capable of classifying customer reviews with good accuracy. The evaluation metrics demonstrate the model’s ability to correctly identify positive and negative sentiments. This shows how text data can be effectively analyzed using machine learning techniques.
 
-The dataset is split into training and testing sets. The model is trained on the training data and evaluated on the test data. Performance metrics such as accuracy, precision, recall, and F1-score are used to assess the model’s effectiveness.
+**Conclusion**
+In conclusion, this task demonstrates how sentiment analysis can be performed using NLP techniques and machine learning algorithms. It highlights the importance of text preprocessing, feature extraction, and model evaluation. The task provides practical experience in working with textual data and builds a strong foundation for more advanced NLP applications such as chatbots, recommendation systems, and opinion mining.
 
-The results of the model provide insights into how well it can classify sentiments. For example, a high accuracy indicates that the model correctly predicts most sentiments. However, additional metrics like precision and recall are important when dealing with imbalanced datasets.
 
-This task highlights the importance of text preprocessing and feature engineering in NLP. It also demonstrates how machine learning can be applied to real-world problems involving unstructured data. Sentiment analysis plays a crucial role in businesses by helping them understand customer opinions and improve their products and services.
-
-OUTPUT:
+**OUTPUT:**
 
 Accuracy: 0.3333333333333333
 
