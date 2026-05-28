@@ -1,3 +1,5 @@
+TASK 1: Decision Tree
+
 The objective of this task is to build and visualize a Decision Tree model using machine learning techniques to classify or predict outcomes based on a given dataset. A Decision Tree is a supervised learning algorithm that is widely used for both classification and regression tasks. It works by splitting the dataset into smaller subsets based on feature values, forming a tree-like structure of decisions.
 
 In this task, the process begins with selecting a dataset such as the Iris dataset, which contains features like sepal length, sepal width, petal length, and petal width. These features are used to classify different species of flowers. The dataset is divided into training and testing sets to ensure that the model can generalize well to unseen data.
@@ -28,5 +30,11 @@ Accuracy: 1.0
    
 weighted avg       1.00      1.00      1.00        30
 
+
+<img width="924" height="240" alt="Screenshot 2026-05-28 162335" src="https://github.com/user-attachments/assets/eeee56d4-423b-45db-aef2-1da4b2f5703d" />
+
+
 <img width="1920" height="1080" alt="Screenshot 2026-05-24 174952" src="https://github.com/user-attachments/assets/6b63eeaa-a209-45c7-9356-5d2df595522f" />
+
+
 
