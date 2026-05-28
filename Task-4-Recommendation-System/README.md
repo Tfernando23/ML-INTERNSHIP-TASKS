@@ -15,3 +15,12 @@ Once the model is trained, it can generate recommendations by predicting ratings
 Recommendation systems play a crucial role in enhancing user experience by providing personalized suggestions. They help businesses increase engagement, improve customer satisfaction, and boost sales.
 
 This task provides a practical understanding of how recommendation systems work and how machine learning techniques can be applied to personalize user experiences in real-world applications.
+
+OUTPUT:
+RMSE: 0.2989
+
+Predicted rating for Item1: 4.537946505813056
+
+Predicted rating for Item2: 4.2391930895669265
+
+Predicted rating for Item3: 4.4093633469229925
